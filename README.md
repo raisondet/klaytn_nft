@@ -27,5 +27,10 @@ truffle + pinata + KAS + Klaytn을 이용하여 Klaytn 기반 NFT를 민팅하�
 - pinata를 이용하여 ipfs에 image 및 metadat json 파일 업로드
 - truffle을 이용한 nft 발행
 
+<br><br>
 ## 시작하기
  
+### 1. Smart contract 구현
+### 2. Compile 및 Deploy
+### 3. pinata에 image/metadata 업로드
+### 4. NFT minting
